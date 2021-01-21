@@ -1,0 +1,15 @@
+{
+  "name": "monke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
